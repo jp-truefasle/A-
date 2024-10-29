@@ -1,0 +1,19 @@
+{
+	"game": {
+		"name": "MassageItem",
+		"appid": "658368880",
+		"cid": 0
+	},
+	"needExecNative": true,
+	"configs": [
+		{
+			"appid": "658368880",
+			"services": [
+				{
+					"service_id": "235",
+					"enable": false
+				}
+			]
+		}
+	]
+}
